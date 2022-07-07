@@ -4,12 +4,11 @@ This repository contains the Final Project of Computer Graphics UCSP 2022-1
 ## Authors
 
 * **Fernandez Sardon Anthony Paolo ** - *San Pablo Catholic University* - [GitHub](https://github.com/Andrescmm)
-* **Cusirramos Marquez Mares Andres** - *San Pablo Catholic University* - [GitHub]()
+* **Cusirramos Marquez Mares Andres** - *San Pablo Catholic University* - [GitHub](https://github.com/Andrescmm)
 
 
 ## Requirements
-The sample code for the `Rubik's Cube` needs CMake 3.20.0 or later.
-This project also depends on 6 libraries:
+This project also depends on 4 libraries:
 
 * [GLFW](https://www.glfw.org/)
 * [GLAD](https://github.com/Dav1dde/glad)
