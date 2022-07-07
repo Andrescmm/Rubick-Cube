@@ -22,7 +22,7 @@ We use the Herbert Kociemba's two-phase algorithm for solving Rubik's Cube, you 
 
 This is the animation of the view of the Rubik's Cube:
 
-![1]()
+![1](https://drive.google.com/file/d/163jMC6OIZoAQfr6n9Hu-YC-KhFwgh895/view?usp=sharing)
 
 This is the animation of the ZOOM of the Rubik's Cube:
 
