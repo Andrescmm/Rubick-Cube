@@ -158,7 +158,7 @@ int main(){
     glEnable(GL_DEPTH_TEST);
 
     // COMPILE SHADER PROGRAM
-    Shader ourShader("C:/Users/Carlos C/Downloads/Laboratorio_CG/GLFW_GLAD_GLUT_GLEW_cmake_project/src/TF_cubo_P4/shaders/cube.vs", "C:/Users/Carlos C/Downloads/Laboratorio_CG/GLFW_GLAD_GLUT_GLEW_cmake_project/src/TF_cubo_P4/shaders/cube.fs");
+    Shader ourShader("../../src/TF_cubo_P4/shaders/cube.vs", "../../src/TF_cubo_P4/shaders/cube.fs");
 
     //SETUP FOR THE CUBES******************************************************************************************************
     unsigned int VBO[26], VAO[26];
@@ -183,7 +183,7 @@ int main(){
     
     int width, height, nrChannels;
     stbi_set_flip_vertically_on_load(true);
-    unsigned char* data = stbi_load("C:/Users/Carlos C/Downloads/Laboratorio_CG/GLFW_GLAD_GLUT_GLEW_cmake_project/src/CG_TF_animacion2/textures/completeTexture.jpg", &width, &height, &nrChannels, 0);
+    unsigned char* data = stbi_load("../../src/CG_TF_animacion2/textures/completeTexture.jpg", &width, &height, &nrChannels, 0);
     if (data)
     {
         glTexImage2D(GL_TEXTURE_2D, 0, GL_RGB, width, height, 0, GL_RGB, GL_UNSIGNED_BYTE, data);
