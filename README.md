@@ -3,7 +3,7 @@ This repository contains the Final Project of Computer Graphics UCSP 2022-1
 
 ## Authors
 
-* **Fernandez Sardon Anthony Paolo ** - *San Pablo Catholic University* - [GitHub](https://github.com/Andrescmm)
+* **Fernandez Sardon Anthony Paolo** - *San Pablo Catholic University* - [GitHub](https://github.com/Andrescmm)
 * **Cusirramos Marquez Mares Andres** - *San Pablo Catholic University* - [GitHub](https://github.com/Andrescmm)
 
 
@@ -17,9 +17,6 @@ This project also depends on 4 libraries:
 
 ## Solver
 We use the Herbert Kociemba's two-phase algorithm for solving Rubik's Cube, you can found it in this [GitHub](https://github.com/muodov/kociemba)
-
-## Demo
-
 
 ## Visuals
 
