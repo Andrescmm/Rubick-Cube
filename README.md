@@ -9,6 +9,8 @@ This repository contains the Final Project of Computer Graphics UCSP 2022-1
 ## Video
 A full Demo of this project can be found on Drive: [Drive](https://drive.google.com/file/d/163jMC6OIZoAQfr6n9Hu-YC-KhFwgh895/view?usp=sharing)
 
+![1](https://github.com/Andrescmm/Rubick-Cube/blob/main/Evidencias%20y%20Informes/videog.gif)
+
 ## Requirements
 This project also depends on 4 libraries:
 
@@ -20,6 +22,4 @@ This project also depends on 4 libraries:
 ## Solver
 We use the Herbert Kociemba's two-phase algorithm for solving Rubik's Cube, you can found it in this [GitHub](https://github.com/muodov/kociemba)
 
-## Demostration
 
-![1](https://github.com/Andrescmm/Rubick-Cube/blob/main/Evidencias%20y%20Informes/videog.gif)
