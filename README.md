@@ -1,10 +1,11 @@
-This repository contains the Final Project of Computer Graphics UCSP 2021-1 
+# Rubik-s-Cube-in-OpenGL
+This repository contains the Final Project of Computer Graphics UCSP 2022-1 
 
 ## Authors
 
-* **Marquez Choque, Patrick Xavier** - *San Pablo Catholic University* - [GitHub](https://github.com/patrick03524)
-* **Diez Canseco Fuentes, Iñigo Manuel** - *San Pablo Catholic University* - [GitHub](https://github.com/inigomanuel)
-* **Mendoza Alejandro, Oscar Andree** - *San Pablo Catholic University* - [GitHub](https://github.com/OscarMendoza99)
+* **Fernandez Sardon Anthony Paolo ** - *San Pablo Catholic University* - [GitHub](https://github.com/Andrescmm)
+* **Cusirramos Marquez Mares Andres** - *San Pablo Catholic University* - [GitHub]()
+
 
 ## Requirements
 The sample code for the `Rubik's Cube` needs CMake 3.20.0 or later.
@@ -13,8 +14,6 @@ This project also depends on 6 libraries:
 * [GLFW](https://www.glfw.org/)
 * [GLAD](https://github.com/Dav1dde/glad)
 * [GLM](https://github.com/g-truc/glm)
-* [FREEIMAGE](https://freeimage.sourceforge.io/)
-* [FREEGLUT](http://freeglut.sourceforge.net/)
 * [GLEW](http://glew.sourceforge.net/)
 
 ## Solver
@@ -22,13 +21,6 @@ We use the Herbert Kociemba's two-phase algorithm for solving Rubik's Cube, you 
 
 ## Demo
 
-A full Demo of this project can be found on youtube: [DEMO-YOUTUBE](https://www.youtube.com/watch?v=6fgyo0bZMnU)
-
-## Instructions
-
-* First it is neccesary use CMake to compile the `CMakeLists.txt` file.
-* After that create a directory with the name "texturas" in your local disk D:/ with the files in the `texturas` directory.
-* Now you can compile it and run the project without problems!
 
 ## Visuals
 
